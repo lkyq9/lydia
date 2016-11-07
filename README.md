@@ -1,2 +1,2 @@
-# lydia
-Webpages for Lydia
+# http://lydia.github.io
+
